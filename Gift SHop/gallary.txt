@@ -1,0 +1,119 @@
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="link.css">
+</head>
+
+ <body style="background-image:url(bg3.jpg)">
+
+<div id="wrapper">
+<div id="header">
+
+<div id="img">
+<img src="g.png" height="18%" width="25%"></div>
+
+<form method="post" align="right" padding="10px" >
+        <p>Email:<input type="text" name="Email"></p>
+
+        Password:<input type="password" name="password"></right><br>
+	<input type="submit" value="login">
+</form>
+
+</div>
+<br>
+<div id="wrapper1">
+<div id="side">
+
+<div id="side1">&#9839 Catagories</div><br>
+
+<ul>
+<li>Flower</li>
+<li>Mobile</li>
+<li>Audio/Video</li>
+<li>Cards</li>
+<li>Action Figure</li>
+</ul>
+</div>
+
+<div id="aside">
+<div id="side1">&#9839 Contact detail</div>
+<div id="aside1">
+GiftShop,Nepal<br>
+Phone:98982324<br>
+Email:gift_shop@gmail.com<br>
+Website:wwww.giftshop.com
+</div>
+</div>
+<br> 
+<div id="side1">&#9839 Special discount</div>
+<img src="dis.jpg" height="25%" width="250px" float="left">
+<div id="side3">
+<video width="280" height="200" controls>
+  <source src="movie.webm" type="video/webm">
+  <source src="movie.ogg" type="video/ogg">
+</video></div>
+</div>
+
+
+<div id="nav">
+<div id="ul">
+<div id="li"><a href="Homepage.html" STYLE="text-decoration: none">Homepage</a> </div>
+<div id="li"><a href="new.html" STYLE="text-decoration: none">About us</a> </div>  
+<div id="li"><a href="gallary.html" STYLE="text-decoration: none">Gallery</a></div>
+<div id="li"><a href="Catagories.html" STYLE="text-decoration: none">Catagories</a></div>
+<div id="li"><a href="contact us.html" STYLE="text-decoration: none">Contact us</a> </div> 
+</div>
+<div id="ul"><li>&#9733 New Gift Kits</li></div>
+
+
+
+<div id="section">
+<img src="head.jpg" height="25%" width="20%" float="left">
+<img src="gg.jpg" height="25%" width="20%" float="left">
+<img src="gg1.jpg" height="25%" width="20%" float="left">
+<img src="gg2.jpg" height="25%" width="20%" float="left">
+<img src="gg3.jpg" height="25%" width="15%" float="left">
+</div>
+
+<div id="ul">&#9733 Gallary</div>
+
+
+<div id="navside">
+
+
+
+</div>
+<div id="img1">
+<img src="fl.jpg" height="22%" width="30%" float="right">
+<img src="fon.jpg" height="22%" width="30%" float="right">
+<img src="ac1.jpg" height="22%" width="30%" float="right">
+<br>
+<img src="c2.jpg" height="22%" width="30%" float="right">
+<img src="fon1.jpg" height="22%" width="30%" float="right">
+<img src="fl3.jpg" height="22%" width="30%" float="right">
+
+
+</div>
+
+</div>
+
+
+<div id="footer">
+<div id="ull">
+<div id="lii"><a href="Homepage.html" STYLE="text-decoration: none">Homepage</a> </div>
+
+<div id="lii"><a href="new.html" STYLE="text-decoration: none">About us</a> </div> 
+<div id="lii"><a href="gallary.html" STYLE="text-decoration: none">Gallery</a></div>
+<div id="lii">
+<a href="Catagories.html" STYLE="text-decoration: none">Catagories</a></div>
+
+<div id="lii"><a href="contact us.html" STYLE="text-decoration: none">Contact us</a> </div> 
+</div>
+&copy The Gift Shop Designed By Sudeep Bajracharya
+ </div>
+</div>
+</div>
+
+</body>
+
+</html>
